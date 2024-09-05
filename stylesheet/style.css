@@ -137,7 +137,7 @@ input:user-valid + .password{
 
 @media (max-width:350px) {
     .container{
-        width: 95%;
+        width: 340px;
         margin: 10px auto;
         padding: 40px 27px;
     }
