@@ -171,7 +171,7 @@ input:user-valid + .password{
     .pass-icon{
         position: relative;
         bottom: 55px;
-        left: 85%;
+        left: 88%;
         width: 18px;
     }
 }
