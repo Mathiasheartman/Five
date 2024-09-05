@@ -145,7 +145,7 @@ input:user-valid + .password{
         gap: 5px;
     }
     .sign-up{
-        padding: 25.4%;
+        padding-inline: 25.4%;
     }
     .google{
         border: 1px solid black;
