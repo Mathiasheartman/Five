@@ -145,14 +145,16 @@ input:user-valid + .password{
         gap: 5px;
     }
     .sign-up{
-        padding-inline: 98.9px;
+        padding-inline: 30.8%;
     }
     .google{
         border: 1px solid black;
-        padding-inline: 78.5px 30.5px;
+        padding-inline: 29% 20%;
+        font-size: 4vw;
     }
     .img-g{
-        background-position: 44.5px 7px;
+        background-position: 20% 50%;
+        width: 2vw;
     }
     #name{
         bottom: 33px;
@@ -164,12 +166,12 @@ input:user-valid + .password{
         bottom: 33px;
     }
     .with-email{
-        padding-inline: 58px;
+        padding-inline: 25%;
     }
     .pass-icon{
         position: relative;
         bottom: 55px;
-        left: 220px;
+        left: 85%;
         width: 18px;
     }
 }
