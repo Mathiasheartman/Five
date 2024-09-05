@@ -132,3 +132,44 @@ input:user-valid + .password{
     left: 390px;
     width: 18px;
 }
+
+
+
+@media (max-width:350px) {
+    .container{
+        width: 95%;
+        margin: 10px auto;
+        padding: 40px 27px;
+    }
+    form{
+        gap: 5px;
+    }
+    .sign-up{
+        padding-inline: 98.9px;
+    }
+    .google{
+        border: 1px solid black;
+        padding-inline: 78.5px 30.5px;
+    }
+    .img-g{
+        background-position: 44.5px 7px;
+    }
+    #name{
+        bottom: 33px;
+    }
+    #email{
+        bottom: 33px;
+    }
+    .password{
+        bottom: 33px;
+    }
+    .with-email{
+        padding-inline: 58px;
+    }
+    .pass-icon{
+        position: relative;
+        bottom: 55px;
+        left: 220px;
+        width: 18px;
+    }
+}
