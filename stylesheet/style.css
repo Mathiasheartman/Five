@@ -135,9 +135,9 @@ input:user-valid + .password{
 
 
 
-@media (max-width:350px) {
+@media (max-width:450px) {
     .container{
-        width: 340px;
+        width: 95%;
         margin: 10px auto;
         padding: 40px 27px;
     }
@@ -145,7 +145,7 @@ input:user-valid + .password{
         gap: 5px;
     }
     .sign-up{
-        padding: 10px 16.4px;
+        padding: 25.4%;
     }
     .google{
         border: 1px solid black;
